@@ -1,0 +1,4 @@
+<!DOCTYPE html>
+<html>
+<h1>website are fine</h1>
+</html>
